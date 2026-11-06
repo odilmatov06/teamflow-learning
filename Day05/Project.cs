@@ -1,9 +1,9 @@
 
 public class Project
 {
-    public int Id { set; get; }
-    public string Name { set; get; }
-    public string Description { set; get; }
+    public int Id { get; init; }
+    public string Name { get; set; }
+    public string Description { get; set; }
 
     public Project(string name, string description)
     {
