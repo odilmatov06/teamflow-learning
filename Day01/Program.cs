@@ -1,3 +1,8 @@
-﻿Console.WriteLine("Welcome, to TeamFlow!");
-Console.WriteLine("My first day of C#");
-Console.WriteLine("I`m learning .NET");
+﻿
+Console.WriteLine("Номи лоиха: TeamFlow");
+Console.WriteLine("Раками рузи омузиш: 1");
+Console.WriteLine("Технология: C# ва .NET");
+Console.WriteLine("Хадаф: FullStack Developer шудан");
+
+
+Console.WriteLine(10.0 % 3);
