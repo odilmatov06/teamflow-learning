@@ -1,0 +1,12 @@
+
+@Host = http://localhost:5162
+
+GET {{Host}}/api/status
+
+###
+
+GET {{Host}}/api/projects
+
+###
+
+GET {{Host}}/api/abc
